@@ -1,0 +1,38 @@
+.header {
+	background-color: #E8E8DD;
+	padding-top: 20px;
+}
+
+.box {
+	background-color: #2E8AE6;
+	height: 80px;
+	width: 80px;
+	position: relative;
+	margin-left: 30px;
+}
+
+p {
+	margin: 50px 100px 50px 100px;
+	font-family: arial;
+	font-size: 18px;
+}
+
+.two {
+	background-color: #2E8AE6;
+}
+
+.three {
+	background-color: #5CE6E6;
+}
+
+.four {
+	background-color: #B8E68A;
+}
+
+.five {
+	background-color: #FFD633;
+}
+
+.row {
+	height: 100px;
+}

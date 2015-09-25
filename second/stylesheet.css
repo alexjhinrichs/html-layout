@@ -1,0 +1,47 @@
+.one {
+	background-color: #65A2DE;
+}
+
+.two {
+	background-color: #75EAF5;
+}
+
+.same {
+	height: 1500px;
+}
+
+.three {
+	vertical-align: 831%;
+}
+
+.column {
+	width: 33%;
+	display: inline-block;
+}
+
+.colthree {
+	height: 1200px;
+	width: 100%;
+	background-color: #BAF186;
+	display: block;
+
+}
+
+.placeholder {
+	height: 301px;
+	width: 100%;
+	background-color: #E00631;
+	display: block;
+	position: relative;
+	margin-top: -46px;
+}
+
+p {
+	padding-top: 110px;
+	text-align: center;
+	font-size: 45px;
+	color: white;
+	font-family: Arial;
+}
+
+
